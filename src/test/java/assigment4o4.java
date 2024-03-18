@@ -21,7 +21,7 @@ public class assigment4o4 {
     @Test
     public void Test3() {
             // Set the path to the ChromeDriver executable
-            System.setProperty("webdriver.chrome.driver", "path/to/chromedriver");
+
 
 
             // Navigate to Amazon
